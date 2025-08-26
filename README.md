@@ -50,10 +50,10 @@ First we need to host the local server first and save the port.
 connect our machine to the tailscale server `sudo tailscale up`
 
 use funnel to forward the port: `sudo funnel "port"`,   `sudo funnel 3000`
-![[Screenshot From 2025-08-26 15-20-46.png]]
+![alt text](<asset/Screenshot From 2025-08-26 15-20-46.png>)
 
 
 
 browse the link that funnel has created:
-![[Pasted image 20250826152525.png]]
+![alt text](<asset/Screenshot From 2025-08-26 15-25-14.png>)
 ___
